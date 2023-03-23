@@ -1,0 +1,12 @@
+.header {
+  margin: 0;
+  padding: 0;
+  background-color: #0085ef;
+  color: #fff;
+  text-align: center;
+}
+
+.header > h1 {
+  padding: 20px;
+  margin: 0;
+}
